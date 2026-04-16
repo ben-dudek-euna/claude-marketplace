@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "caveman-plugin",
+      "name": "caveman",
       "source": "./plugins/caveman",
       "description": "Adds the caveman speak plugin to reduce token usage and improve response readability"
     },
